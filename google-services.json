@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "276442301130",
+    "firebase_url": "https://quiz-game-e2088-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "quiz-game-e2088",
+    "storage_bucket": "quiz-game-e2088.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276442301130:android:89d76f4cf8aa8c4cebaa33",
+        "android_client_info": {
+          "package_name": "com.example.quizgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276442301130-7s22l1qlc74hdamhpdrsvll0v0cqhida.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZRfcrD0BLlXoTZhAyD0VWPfW3x78ef-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276442301130-7s22l1qlc74hdamhpdrsvll0v0cqhida.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

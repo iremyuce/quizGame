@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QuizGame</string>
+    <string name="bilgi_yarismasi">Bilgi Yarışması</string>
+    <string name="todo">TODO</string>
+    <string name="account">Do not have an account? <font color='5b39c6'> Sign up </font></string>
+    <string name="forgot_password"><u>Forgot Your Password? </u></string>
+</resources>
